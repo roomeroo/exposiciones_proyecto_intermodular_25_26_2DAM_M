@@ -101,7 +101,7 @@ Una fila por **proyecto**, en el **mismo orden** que el [planning horario](#plan
 | 2 | Cobo Sánchez, Francisco de Asís (`fcobsan076@g.educaand.es`)<br>Salces Alcaraz, Antonio (`asalalc1312@g.educaand.es`)<br>Mora Mata, Ángela (`amormat1010@g.educaand.es`) | PENDIENTE |
 | 3 | Maldonado Triana, Alberto (`amaltri0308@g.educaand.es`)<br>Ballesteros Martínez, Javier (`jbalmar328@g.educaand.es`) | PENDIENTE |
 | 4 | López González, Jose María (`jlopgon0807b@g.educaand.es`)<br>Cano Jiménez, Antonio Lorenzo (`acanjim2704@g.educaand.es`)<br>Romero Maldonado, Adrián (`arommal0105@g.educaand.es`) | PENDIENTE |
-| 5 | Bueno González, Salvador (`sbuegon0702@g.educaand.es`)<br>García Ruiz, Samuel (`sgarrui1201@g.educaand.es`)<br>García Luque, Mario (`mgarluq1102@g.educaand.es`) | PENDIENTE |
+| 5 | Bueno González, Salvador (`sbuegon0702@g.educaand.es`)<br>García Ruiz, Samuel (`sgarrui1201@g.educaand.es`)<br>García Luque, Mario (`mgarluq1102@g.educaand.es`) | https://github.com/Mariogarluu/Meta_Force_Expo |
 | 6 | González Ortiz, María del Rosario (`mgonort380y@g.educaand.es`)<br>Jiménez Muñoz, Álvaro (`ajimmun901@g.educaand.es`) | PENDIENTE |
 | 7 | Vargas Berrocal, Ezequiel (`evarber0103@g.educaand.es`)<br>Domínguez González, José Antonio (`jdomgon334@g.educaand.es`) | PENDIENTE |
 | 8 | Diáñez Gómez, Guillermo (`gdiagom1205@g.educaand.es`) *(proyecto individual)* | PENDIENTE |
